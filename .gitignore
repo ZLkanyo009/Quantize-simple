@@ -1,0 +1,7 @@
+/data/
+/__pycache__/
+/checkpoint/
+/models/__pycache__/
+/quantization/__pycache__/
+test
+vgg_s_fp32.pth
